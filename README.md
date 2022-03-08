@@ -1,6 +1,6 @@
 获取一个Koyeb账号
 
-#### 创建
+### 创建
 
 创建`APP`，选择Docker部署，Docker image填写：`docker.io/xhofe/alist:latest`
 
@@ -14,7 +14,7 @@ App名称 自定义
 
 其余东西不需要动
 
-#### 密码
+### 密码
 
 找到部署记录
 
@@ -26,13 +26,13 @@ App名称 自定义
 
 便可找到密码
 
-#### 配置
+### 配置
 
 在CONSOLE选项可自行修改配置，例如修改数据库
 
 ![](https://i0.hdslb.com/bfs/album/7972c4a48b26078e97f1fc2e073a080186e8f355.png)
 
-### 使用免费 MySQL 远程数据库
+## 使用免费 MySQL 远程数据库
 
 注册免费 MySQL 远程数据库：https://www.db4free.net/
 
